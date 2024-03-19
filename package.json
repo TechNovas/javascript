@@ -1,9 +1,10 @@
 {
-  "name": "simplecalculator",
-  "version": "1.0.0",
+  "name": "m42g4gsimplecalculator",
+  "version": "1.0.1",
   "description": "simple calculator containing typescript and node.js and inquirer",
   "main": "app.js",
   "type": "module",
+  "bin": "simplecalculator",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
